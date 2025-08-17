@@ -1,4 +1,4 @@
-# Real-Time Netflix Analytics Dashboard
+# Serverless Data Pipeline with Live BI
 
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
